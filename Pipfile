@@ -9,6 +9,7 @@ autopep8 = "*"
 [packages]
 django = "==2.2.9"
 djangorestframework = "==3.10.3"
+django-rest-auth = "*"
 
 [requires]
 python_version = "3.7"
