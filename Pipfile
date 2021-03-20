@@ -8,7 +8,7 @@ autopep8 = "*"
 
 [packages]
 django = "==2.2.18"
-djangorestframework = "==3.10.3"
+djangorestframework = "==3.11.2"
 django-rest-auth = "*"
 django-allauth = "*"
 coreapi = "==2.3.3"
